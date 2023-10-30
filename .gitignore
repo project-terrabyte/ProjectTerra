@@ -1,5 +1,5 @@
 # Ignore ToDo file
-ToDo.*
+ToDo_list.md
 
 # Ignore text files
 *.txt

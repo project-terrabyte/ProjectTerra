@@ -1,1 +1,0 @@
-int exmaple = 1;
